@@ -1,0 +1,4 @@
+
+A wire through which a current is flowing lies along the x-axis as shown. Connecting wires which are not shown in the diagram connect the ends of the wire batteries (which are also not shown). Electron current flows through the wire in -x direction, as indicated in the diagram. To calculate the magnetic field at location A due to the current in the wire, we divide the wire into pieces, approximate each piece as a point charge moving in the direction of conventional current, and calculate the magnetic field at the observation location due only to this piece; then add the contributions of all pieces to get the net magnetic field.  
+The wire is 1.3 m long and is divided into 8 pieces. The observation location A is located at < 0.081, 0.178, 0> m. The conventional current running through the wire is 7.1 amperes. Calculate the net magnetic field at location A due to the wire. 
+
